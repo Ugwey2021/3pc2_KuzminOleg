@@ -1,0 +1,16 @@
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\bin\Debug\net5.0\DepthSearch.exe
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\bin\Debug\net5.0\DepthSearch.deps.json
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\bin\Debug\net5.0\DepthSearch.runtimeconfig.json
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\bin\Debug\net5.0\DepthSearch.runtimeconfig.dev.json
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\bin\Debug\net5.0\DepthSearch.dll
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\bin\Debug\net5.0\DepthSearch.pdb
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\DepthSearch.csproj.AssemblyReference.cache
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\DepthSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\DepthSearch.AssemblyInfoInputs.cache
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\DepthSearch.AssemblyInfo.cs
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\DepthSearch.csproj.CoreCompileInputs.cache
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\DepthSearch.dll
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\refint\DepthSearch.dll
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\DepthSearch.pdb
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\DepthSearch.genruntimeconfig.cache
+C:\Users\cpecn\Desktop\Новая папка\DepthSearch\obj\Debug\net5.0\ref\DepthSearch.dll
