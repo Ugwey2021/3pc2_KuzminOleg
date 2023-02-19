@@ -1,0 +1,16 @@
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\bin\Debug\net5.0\WidthMehtod.exe
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\bin\Debug\net5.0\WidthMehtod.deps.json
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\bin\Debug\net5.0\WidthMehtod.runtimeconfig.json
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\bin\Debug\net5.0\WidthMehtod.runtimeconfig.dev.json
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\bin\Debug\net5.0\WidthMehtod.dll
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\bin\Debug\net5.0\WidthMehtod.pdb
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\WidthMehtod.csproj.AssemblyReference.cache
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\WidthMehtod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\WidthMehtod.AssemblyInfoInputs.cache
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\WidthMehtod.AssemblyInfo.cs
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\WidthMehtod.csproj.CoreCompileInputs.cache
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\WidthMehtod.dll
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\refint\WidthMehtod.dll
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\WidthMehtod.pdb
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\WidthMehtod.genruntimeconfig.cache
+C:\Users\cpecn\source\repos\WidthMehtod\WidthMehtod\obj\Debug\net5.0\ref\WidthMehtod.dll

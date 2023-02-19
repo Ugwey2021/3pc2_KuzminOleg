@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WidthMehtod", "WidthMehtod\WidthMehtod.csproj", "{FA8F6F74-3B7F-40AB-858E-0281E84E3F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA8F6F74-3B7F-40AB-858E-0281E84E3F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8F6F74-3B7F-40AB-858E-0281E84E3F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8F6F74-3B7F-40AB-858E-0281E84E3F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8F6F74-3B7F-40AB-858E-0281E84E3F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07C2A940-F28B-4E1B-8578-0B3C6C2FCED0}
+	EndGlobalSection
+EndGlobal

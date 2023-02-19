@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4vTc6sIVWy5e3VeyEEZmAgfiAOuTT/av9Ep0Li34FPKSq1Ypi+lEizj1wuMj93w46qV8mU6jfsm1ohaY6iPzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpecn\\source\\repos\\WidthMehtod\\WidthMehtod\\WidthMehtod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpecn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
