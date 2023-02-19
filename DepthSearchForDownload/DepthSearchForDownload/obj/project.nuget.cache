@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OP7AoaigeknF2DccAbIwOCQsl5lPo6oWMK11yID/XfKZ1/F7eDuHKwgdgQY04Rc0t7JcTXIE53Wo2oTzaEkr9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpecn\\source\\repos\\DepthSearchForDownload\\DepthSearchForDownload\\DepthSearchForDownload.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpecn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

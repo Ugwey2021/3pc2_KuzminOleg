@@ -1,0 +1,16 @@
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\bin\Debug\net5.0\DepthSearchForDownload.exe
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\bin\Debug\net5.0\DepthSearchForDownload.deps.json
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\bin\Debug\net5.0\DepthSearchForDownload.runtimeconfig.json
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\bin\Debug\net5.0\DepthSearchForDownload.runtimeconfig.dev.json
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\bin\Debug\net5.0\DepthSearchForDownload.dll
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\bin\Debug\net5.0\DepthSearchForDownload.pdb
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\DepthSearchForDownload.csproj.AssemblyReference.cache
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\DepthSearchForDownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\DepthSearchForDownload.AssemblyInfoInputs.cache
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\DepthSearchForDownload.AssemblyInfo.cs
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\DepthSearchForDownload.csproj.CoreCompileInputs.cache
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\DepthSearchForDownload.dll
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\refint\DepthSearchForDownload.dll
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\DepthSearchForDownload.pdb
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\DepthSearchForDownload.genruntimeconfig.cache
+C:\Users\cpecn\source\repos\DepthSearchForDownload\DepthSearchForDownload\obj\Debug\net5.0\ref\DepthSearchForDownload.dll
