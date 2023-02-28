@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqx6P+oRL2TRXUyqPPSgWWr+VboIv2lFX8pgied77byLuO28uvaut47bTggpeCBBq30AAt2IkAB/yvIMPA5ciQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpecn\\source\\repos\\BalancedTree\\BalancedTree\\BalancedTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpecn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\bin\Debug\net5.0\BalancedTree.exe
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\bin\Debug\net5.0\BalancedTree.deps.json
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\bin\Debug\net5.0\BalancedTree.runtimeconfig.json
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\bin\Debug\net5.0\BalancedTree.runtimeconfig.dev.json
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\bin\Debug\net5.0\BalancedTree.dll
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\bin\Debug\net5.0\BalancedTree.pdb
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\BalancedTree.csproj.AssemblyReference.cache
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\BalancedTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\BalancedTree.AssemblyInfoInputs.cache
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\BalancedTree.AssemblyInfo.cs
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\BalancedTree.csproj.CoreCompileInputs.cache
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\BalancedTree.dll
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\refint\BalancedTree.dll
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\BalancedTree.pdb
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\BalancedTree.genruntimeconfig.cache
+C:\Users\cpecn\source\repos\BalancedTree\BalancedTree\obj\Debug\net5.0\ref\BalancedTree.dll
