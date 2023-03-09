@@ -1,0 +1,16 @@
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\pz5_Interface.csproj.AssemblyReference.cache
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\pz5_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\pz5_Interface.AssemblyInfoInputs.cache
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\pz5_Interface.AssemblyInfo.cs
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\pz5_Interface.csproj.CoreCompileInputs.cache
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\bin\Debug\net5.0\pz5_Interface.exe
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\bin\Debug\net5.0\pz5_Interface.deps.json
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\bin\Debug\net5.0\pz5_Interface.runtimeconfig.json
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\bin\Debug\net5.0\pz5_Interface.runtimeconfig.dev.json
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\bin\Debug\net5.0\pz5_Interface.dll
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\bin\Debug\net5.0\pz5_Interface.pdb
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\pz5_Interface.dll
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\refint\pz5_Interface.dll
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\pz5_Interface.pdb
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\pz5_Interface.genruntimeconfig.cache
+C:\Users\cpecn\source\repos\pz5_Interface\pz5_Interface\obj\Debug\net5.0\ref\pz5_Interface.dll

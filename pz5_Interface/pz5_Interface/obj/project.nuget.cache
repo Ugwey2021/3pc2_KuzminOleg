@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0yZ9T6qZafdClvBAUz4mWfcR4ZUaxgoQXSVLTf76UDB0SjlOjk8d9WopxU/Qbao55PoHZydL8mR/2wX4MkBlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpecn\\source\\repos\\pz5_Interface\\pz5_Interface\\pz5_Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpecn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
