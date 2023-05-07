@@ -1,0 +1,20 @@
+﻿<Window x:Class="Notes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Notes"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="440">
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center" Height="424" Width="440">
+        <ListView x:Name="lsView" Height="NaN" Margin="0,59,0,0" SelectionChanged="Select">
+        </ListView>
+        <Button x:Name="btn_delete" HorizontalAlignment="Left" Margin="52,10,0,0" VerticalAlignment="Top" Background="White" Height="44" Content="x" Width="51" FontSize="36" Click="Button_Click_2"/>
+        <Button x:Name="btn0" Content="+" FontSize="36" HorizontalAlignment="Left"  Background="White" Margin="10,10,0,0" VerticalAlignment="Top" Height="44" Width="42" Click="Button_Click_1">
+        </Button>
+        <ComboBox x:Name="cmb_box" HorizontalAlignment="Left" Margin="274,21,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="cmb_box_SelectionChanged">
+            <ComboBoxItem>InkCanvas</ComboBoxItem>
+            <ComboBoxItem>Text</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>
