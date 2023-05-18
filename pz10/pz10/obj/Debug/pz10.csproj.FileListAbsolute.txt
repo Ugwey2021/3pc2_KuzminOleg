@@ -1,0 +1,15 @@
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\bin\Debug\pz10.exe.config
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\bin\Debug\pz10.exe
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\bin\Debug\pz10.pdb
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10.csprojAssemblyReference.cache
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\MainWindow.g.cs
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\App.g.cs
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10_MarkupCompile.cache
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10_MarkupCompile.lref
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\MainWindow.baml
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10.g.resources
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10.Properties.Resources.resources
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10.csproj.GenerateResource.cache
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10.csproj.CoreCompileInputs.cache
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10.exe
+C:\Users\kuzmin.ov1260\source\repos\pz10\pz10\obj\Debug\pz10.pdb
